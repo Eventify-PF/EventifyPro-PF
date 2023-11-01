@@ -1,0 +1,89 @@
+{
+  "Eventos": [
+    {
+      "id": 1,
+      "title": "El Rey León",
+      "description": "Disfruta en familia del teatro musical El Rey León",
+      "location": "Teatro Rivadavia, Buenos Aires",
+      "date": "03/03/2024",
+      "eventType": "Musical Theater",
+      "image": "https://www.trbimg.com/img-54a323b0/turbine/os-teatro-broadway-rey-leon-20141230",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "ABEL PRESENTA “AMORES Y RAREZAS”",
+      "description": "Con “Amores y Rarezas” Abel propone un recorrido por todos sus “Amores”",
+      "location": "ESTADIO VELEZ SARSFIELD",
+      "date": "18/11/2023",
+      "eventType": "Concert",
+      "image": "https://rosarionuestro.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-07-at-11.03.42-800x527.jpg",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "EXPERIENCIA QUEEN",
+      "description": "Los mayores éxitos de Queen en una sola noche",
+      "location": "Teatro Rivadavia",
+      "date": "27/11/2023",
+      "eventType": "Broadway Theater",
+      "image": "https://ventas.plateaunotickets.com/img/obras/1440.jpeg",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "EL OFICIAL GORDILLO",
+      "description": "Disfruta en familia del teatro musical El Rey León",
+      "location": "Teatro Opera Av.Corrientes 860, Capital Federal",
+      "date": "25/12/2023",
+      "eventType": "Stand-up Comedy",
+      "image": "https://www.elesquiu.com/u/fotografias/m/2020/7/18/f1280x720-347668_479343_5050.jpg",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "title": "IEB+ ARGENTINA OPEN 2024",
+      "description": "¡Ya podés obtener tu abono semanal en esta preventa exclusiva hasta el 13 de agosto o agotar stock.",
+      "location": "Buenas Aires LAWN Tennis club, Olleros 1510,  Capital Federal,  Palermo",
+      "date": "25/12/2023",
+      "eventType": "Tennis",
+      "image": "https://argentinaopentennis.com/wp-content/uploads/thegem-logos/logo_f391a203ca4744b13518dcb64655abee_3x.png",
+      "status": "active"
+    }
+  ],
+
+  "EventTypes": [
+    {
+      "id": 1,
+      "name": "Concert"
+    },
+    {
+      "id": 2,
+      "name": "Stand-up Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Musical Theater"
+    },
+    {
+      "id": 4,
+      "name": "Theater"
+    },
+    {
+      "id": 5,
+      "name": "Football"
+    },
+    {
+      "id": 6,
+      "name": "Dance show"
+    },
+    {
+      "id": 7,
+      "name": "Broadway Theater"
+    },
+    {
+      "id": 8,
+      "name": "Tennis"
+    }
+  ]
+}
